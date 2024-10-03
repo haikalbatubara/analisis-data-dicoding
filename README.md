@@ -4,7 +4,7 @@
 
 ## Streamlit Cloud :
 
-Streamlit Cloud : ()
+Streamlit Cloud : (https://dicoding-airquality-haikalbatubara.streamlit.app/)
 
 ![Bike Sharing Dashboard Preview](/dashboard/dashboard.png)
 
@@ -25,7 +25,7 @@ The steps to create your virtual environment from this project is as follows:
 1. Clone this repository
 
    ```
-   git clone
+   git clone git@github.com:haikalbatubara/analisis-data-dicoding.git
    ```
 
 2. Move to directory
